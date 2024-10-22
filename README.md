@@ -1,51 +1,51 @@
 # 👋 Hi, I'm Adhiraj Kinlekar!
 
-### 🚀 Full Stack Developer | Tech Enthusiast | Lifelong Learner
+### 🚀 Full Stack Developer | UST Global | Metalhead
 
-I'm a passionate software developer with over **5** in building scalable applications using cutting-edge technologies. My expertise spans both frontend and backend development, and I’m always excited to work on challenging problems!
+I am a Software Engineer with over **5** years of experience in .NET and JavaScript frameworks and technologies. I am proficient in developing scalable applications with a strong focus on server-side architecture, database design, and cloud solution implementation.
 
 ---
 
 ### 🌟 **About Me**
 
-- 🧑‍💻 I specialize in **.NET, JavaScript frameworks (React, Angular)**, and **cloud-native solutions**.
+- 🧑‍💻 I specialize in **.NET, JavaScript frameworks (React, Angular, Node Js)**, Databases like MSSQL and Mongo DB and **cloud-native solutions**.
 - 🌍 Based in **Goa, India**, I love contributing to global projects that make a positive impact.
 - 📚 A huge advocate for **continuous learning**, I’m constantly exploring new technologies and improving my skills.
 - ✍️ I also enjoy writing technical blogs on **software development** and **best coding practices**.
-- 🎮 In my spare time, you'll often find me working on personal projects, gaming, or trying to find obscure music.
+- 🎮 In my spare time, you'll often find me working on personal projects, learning or trying to find obscure music.
 
 ---
 
 ### 💼 **What I'm Working On**
 
-- 🔨 Building a personal project called **Veryown**. It's a platform for building custom services like stores and academies 
+- 🔨 Building a personal project called **Veryown**. It's a platform for building custom services like stores and academies. 
 - 📖 Learning **Software architecture and methodologies** to expand my knowledge base.
   
 ---
 
-### 🔧 **Technologies & Tools**
+🔧 Technologies & Tools
+Languages:
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
 
-**Languages:**  
-![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
+Frameworks & Libraries:
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react) ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-lightgrey?style=flat-square&logo=dotnet)
+Databases:
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 
-**Tools:**  
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
+Tools & Technologies:
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 ---
 
 ### 📊 **GitHub Stats**
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
+![adhirajkinlekar](https://github-readme-stats.vercel.app/api?username=adhirajkinlekar&show_icons=true&hide_border=true&theme=radical)
 
 ---
 
 ### 📫 **Get in Touch**
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🌐 [Portfolio](https://yourportfolio.com)
-- ✉️ [Email](mailto:yourname@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/adhirajkinlekar) 
+- ✉️ [Email](mailto:adhirajkkinlekar@gmail.com)
 
 Let’s connect and collaborate on exciting projects!
