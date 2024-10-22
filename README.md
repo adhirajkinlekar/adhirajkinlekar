@@ -8,7 +8,7 @@ I am a Software Engineer with over **5** years of experience in .NET and JavaScr
 
 ### 🌟 **About Me**
 
-- 🧑‍💻 I specialize in **.NET, JavaScript frameworks (React, Angular, Node.js)**, databases (**MSSQL** and **MongoDB**), and **cloud-native solutions**.
+- 🧑‍💻 I specialize in **.NET, JS frameworks (React, Angular, Node.js)**, databases (**MSSQL** and **MongoDB**), and **cloud-native solutions**.
 - 🌍 Based in **Goa, India**, I love contributing to global projects that make a positive impact.
 - 📚 A huge advocate for **continuous learning**, I’m constantly exploring new technologies and improving my skills.
 - ✍️ I also enjoy writing technical blogs on **software development** and **best coding practices**.
