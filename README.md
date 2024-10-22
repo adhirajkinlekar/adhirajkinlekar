@@ -40,6 +40,9 @@ I am a Software Engineer with over **5** years of experience in .NET and JavaScr
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" /> 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 
+**Cloud:**  
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+
 **Tools & Technologies:**  
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /> 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" /> 
