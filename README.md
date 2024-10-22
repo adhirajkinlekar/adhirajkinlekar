@@ -33,7 +33,8 @@ I am a Software Engineer with over **5** years of experience in .NET and JavaScr
 **Frameworks & Libraries:**  
 <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white" alt=".NET" /> 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" /> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
 
 **Databases:**  
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" /> 
@@ -42,8 +43,7 @@ I am a Software Engineer with over **5** years of experience in .NET and JavaScr
 **Tools & Technologies:**  
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /> 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" /> 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />  
 
 ---
 
