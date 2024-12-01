@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | UST Global 
 
-I am a Software Engineer with over **5** years of experience in .NET and JavaScript frameworks and technologies. I am proficient in developing scalable applications with a strong focus on server-side architecture, database design, and cloud solution implementation.
+I am a Software Engineer with over **6** years of experience in .NET and JavaScript frameworks and technologies. I am proficient in developing scalable applications with a strong focus on server-side architecture, database design, and cloud solution implementation.
 
 ---
 
