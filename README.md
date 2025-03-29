@@ -20,7 +20,7 @@ I am a Software Engineer with over **6** years of experience in .NET and JavaScr
 
 - 🔨 Building a personal project called **Veryown**. It's a platform for building custom services like stores and academies. 
 - 📖 Learning **software architecture and methodologies** to expand my knowledge base.
-  
+  🎥 [Watch the demo](https://www.youtube.com/watch?v=mk-yHecaxBg)
 ---
 
 ### 🔧 **Technologies & Tools**
