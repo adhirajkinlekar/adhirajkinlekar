@@ -20,6 +20,5 @@ I hold a strong belief that software is sacred, and the systems we build should 
 ### Get in Touch 📫
 
 * [LinkedIn](https://linkedin.com/in/adhirajkinlekar) 
-* [Email](mailto:connect.adhirajkkinlekar@gmail.com)
 
 Let’s connect to talk about software development, system design, or technology trends! ✨
