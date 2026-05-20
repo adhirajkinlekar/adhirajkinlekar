@@ -1,6 +1,6 @@
 # Hi, I'm Adhiraj Kinlekar 👋
 
-### Software Engineer | Dayforce 🚀
+### Senior Software Developer | Dayforce 🚀
 
 I am a Software Engineer working on enterprise applications, currently focused on the development of financial systems at Dayforce. My engineering approach is tech-agnostic; I prioritize core software fundamentals and reliable system architecture over specific toolsets. I focus meticulously on code quality to ensure that what I build is readable, modular, and maintainable.
 
