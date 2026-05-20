@@ -1,4 +1,4 @@
-# Senior Software Developer
+# Senior Software Developer 👋
 
 I am a Senior Software Developer at **Dayforce** (formerly Ceridian), building and optimizing live production applications that handle high-volume financial transactions. 
 
