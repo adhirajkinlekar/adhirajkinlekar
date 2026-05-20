@@ -1,27 +1,32 @@
-# Hi, I'm Adhiraj Kinlekar 👋
+# Hi there, I'm a Senior Software Developer 👋
 
-### Senior Software Developer | Dayforce 🚀
-
-I am a Software Engineer working on enterprise applications, currently focused on the development of financial systems at Dayforce. My engineering approach is tech-agnostic; I prioritize core software fundamentals and reliable system architecture over specific toolsets. I focus meticulously on code quality to ensure that what I build is readable, modular, and maintainable.
-
-I hold a strong belief that software is sacred, and the systems we build should be treated with that level of care and craftsmanship.
+I am a Senior Software Developer at **Dayforce** (formerly Ceridian), where I engineer and optimize live production systems responsible for high-volume financial transactions. Operating in the HCM and fintech space, I build applications that demand absolute precision, high availability, and relentless performance under heavy loads.
 
 ---
 
-### About Me 🌟
-
-**Tech-Agnostic Approach:** I remain highly focused on software engineering principles, always choosing the right tool for the specific problem at hand rather than tying myself to a single stack.
-
-**AI & DevOps:** I am currently expanding my skill set into AI Engineering by integrating LLMs and intelligent workflows into my projects, alongside diving deeper into DevOps practices like infrastructure management and CI/CD pipelines.
-
-**Technical Writing:** I enjoy writing about tech, documenting my learnings, and sharing insights on software development and best practices with the broader community.
-
-**Personal Interests:** I am based in Goa, India. Outside of my professional work, I spend my time building personal projects, exploring emerging technologies, or finding obscure music.
+### 🧠 Engineering Philosophy: Tech-Agnostic & Fundamentals-First
+I believe great software is defined by solid engineering fundamentals, not rigid frameworks. Stacks change, which is why I maintain a tech-agnostic mindset. I focus on design patterns, scalability, and long-term maintainability—relying on a proven ability to adopt and master whatever technology best solves the problem at hand.
 
 ---
 
-### Get in Touch 📫
+### 🚀 Technical Breadth
+My expertise spans the entire lifecycle of enterprise software, bridging the gaps between development, infrastructure, and modern innovation:
 
-You can find my professional profile on [LinkedIn](https://linkedin.com/in/adhirajkinlekar).
+* **🌐 Full-Stack Development:** Building robust, highly performant web applications that manage complex data models seamlessly.
+* **☁️ Cloud & DevOps:** Designing automated pipelines and cloud infrastructure to ensure stable, repeatable, and secure production deployments.
+* **🤖 AI Engineering:** Contextualizing and integrating artificial intelligence into enterprise ecosystems to optimize workflows and drive product capabilities forward.
 
-Let’s connect to talk about software development, system design, or technology trends! ✨
+---
+
+### 🛠️ The Pillars of My Work
+I judge the success of my code not just by whether it works today, but by how easily it can be evolved tomorrow. 
+
+* **Clean Code:** Writing readable, self-documenting code that minimizes technical debt.
+* **Rigorous Testing:** Comprehensive unit testing to catch regressions early and guarantee production stability.
+* **Scalable Architecture:** Designing decoupled, resilient systems capable of scaling seamlessly as transaction volumes grow.
+* **User-Centric Design:** Ensuring complex backend infrastructure translates into an intuitive, frictionless user experience.
+
+---
+
+### 📊 Connect With Me
+* 💼 [LinkedIn](https://www.linkedin.com/in/adhirajkinlekar/)
