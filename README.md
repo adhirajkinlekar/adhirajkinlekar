@@ -1,32 +1,26 @@
-# Hi there, I'm a Senior Software Developer 👋
+# Senior Software Developer
 
-I am a Senior Software Developer at **Dayforce** (formerly Ceridian), where I engineer and optimize live production systems responsible for high-volume financial transactions. Operating in the HCM and fintech space, I build applications that demand absolute precision, high availability, and relentless performance under heavy loads.
+I am a Senior Software Developer at **Dayforce** (formerly Ceridian), building and optimizing live production applications that handle high-volume financial transactions. 
 
----
-
-### 🧠 Engineering Philosophy: Tech-Agnostic & Fundamentals-First
-I believe great software is defined by solid engineering fundamentals, not rigid frameworks. Stacks change, which is why I maintain a tech-agnostic mindset. I focus on design patterns, scalability, and long-term maintainability—relying on a proven ability to adopt and master whatever technology best solves the problem at hand.
+I maintain a tech-agnostic mindset, prioritizing engineering fundamentals over rigid stacks and adapting my toolset to the problem at hand.
 
 ---
 
-### 🚀 Technical Breadth
-My expertise spans the entire lifecycle of enterprise software, bridging the gaps between development, infrastructure, and modern innovation:
+### Technical Capabilities
 
-* **🌐 Full-Stack Development:** Building robust, highly performant web applications that manage complex data models seamlessly.
-* **☁️ Cloud & DevOps:** Designing automated pipelines and cloud infrastructure to ensure stable, repeatable, and secure production deployments.
-* **🤖 AI Engineering:** Contextualizing and integrating artificial intelligence into enterprise ecosystems to optimize workflows and drive product capabilities forward.
-
----
-
-### 🛠️ The Pillars of My Work
-I judge the success of my code not just by whether it works today, but by how easily it can be evolved tomorrow. 
-
-* **Clean Code:** Writing readable, self-documenting code that minimizes technical debt.
-* **Rigorous Testing:** Comprehensive unit testing to catch regressions early and guarantee production stability.
-* **Scalable Architecture:** Designing decoupled, resilient systems capable of scaling seamlessly as transaction volumes grow.
-* **User-Centric Design:** Ensuring complex backend infrastructure translates into an intuitive, frictionless user experience.
+* **Full-Stack Development** – Engineering performant web applications handling complex data models.
+* **Cloud & DevOps** – Designing automated CI/CD pipelines and scalable infrastructure for secure production deployments.
+* **AI Engineering** – Integrating artificial intelligence into enterprise ecosystems to optimize workflows.
 
 ---
 
-### 📊 Connect With Me
-* 💼 [LinkedIn](https://www.linkedin.com/in/adhirajkinlekar/)
+### Core Principles
+
+* **Code Quality & Testing** – Strict commitment to clean code and comprehensive unit testing to minimize regressions.
+* **System Design** – Building decoupled, resilient architectures capable of scaling with transaction volume.
+* **User Focus** – Translating complex backend infrastructure into intuitive, functional software design.
+
+---
+
+### Contact
+* [LinkedIn](YOUR_LINKEDIN_URL)
