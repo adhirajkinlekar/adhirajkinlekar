@@ -19,18 +19,11 @@ I operate with a **T-shaped approach** to software development—combining deep,
 
 ## 🛠️ Areas of Expertise
 
-| **Deep Full-Stack** | **DevOps & Infrastructure** | **AI Engineering** |
+| **Full-Stack** | **DevOps & Infrastructure** | **AI Engineering** |
 | :--- | :--- | :--- |
 | High-volume transaction processing | CI/CD automation & pipelines | LLM integration & AI agents |
 | Scalable system architecture | Cloud infrastructure & scaling | Intelligent workflow automation |
 | Secure API design & integration | Containerization & monitoring | Data-driven optimization |
-
----
-
-## 📊 GitHub Analytics
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhirajkinlekar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhirajkinlekar&layout=compact&theme=radical)
 
 ---
 
