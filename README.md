@@ -1,26 +1,39 @@
-# Adhiraj Kinlekar, Senior Software Developer @Dayforce 👋
+# Hi there, I'm Adhiraj 👋
 
-I am a Senior Software Developer at **Dayforce** (formerly Ceridian), building and optimizing live production applications that handle high-volume financial transactions. 
+### Senior Software Developer | Dayforce
 
-I maintain a tech-agnostic mindset, prioritizing engineering fundamentals over rigid stacks and adapting my toolset to the problem at hand.
+I am a **Senior Software Developer at Dayforce**, where I build, optimize, and scale live production applications that handle high-volume financial transactions. 
 
----
-
-### Technical Capabilities
-
-* **Full-Stack Development** – Engineering performant web applications handling complex data models.
-* **Cloud & DevOps** – Designing automated CI/CD pipelines and scalable infrastructure for secure production deployments.
-* **AI Engineering** – Integrating artificial intelligence into enterprise ecosystems to optimize workflows.
+I operate with a **T-shaped approach** to software development—combining deep, specialized expertise in full-stack engineering with broad, robust capabilities in DevOps and AI engineering. I maintain a strictly **tech-agnostic mindset**, prioritizing core engineering fundamentals over rigid frameworks, and I am always ready to adopt the right tool for the job.
 
 ---
 
-### Core Principles
+## 🚀 Core Philosophy & Focus
 
-* **Code Quality & Testing** – Strict commitment to clean code and comprehensive unit testing to minimize regressions.
-* **System Design** – Building decoupled, resilient architectures capable of scaling with transaction volume.
-* **User Focus** – Translating complex backend infrastructure into intuitive, functional software design.
+* **Engineering Excellence:** A strict, uncompromising commitment to clean code quality and robust architecture.
+* **Production Resilience:** Comprehensive unit testing and building for high-volume, high-availability systems.
+* **User-Centric Design:** Ensuring that what happens under the hood translates into seamless, intuitive user experiences.
+* **Continuous Evolution:** Actively expanding my toolset across full-stack, DevOps, and AI domains.
 
 ---
 
-### Contact
-* [LinkedIn](YOUR_LINKEDIN_URL)
+## 🛠️ Areas of Expertise
+
+| **Deep Full-Stack** | **DevOps & Infrastructure** | **AI Engineering** |
+| :--- | :--- | :--- |
+| High-volume transaction processing | CI/CD automation & pipelines | LLM integration & AI agents |
+| Scalable system architecture | Cloud infrastructure & scaling | Intelligent workflow automation |
+| Secure API design & integration | Containerization & monitoring | Data-driven optimization |
+
+---
+
+## 📊 GitHub Analytics
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhirajkinlekar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhirajkinlekar&layout=compact&theme=radical)
+
+---
+
+## 🤝 Connect With Me
+
+* **LinkedIn:** (https://www.linkedin.com/in/adhirajkinlekar/)
